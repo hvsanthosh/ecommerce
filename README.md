@@ -28,9 +28,7 @@ add below credential in .env file on route directory for server.
 PORT=8080
 DEV_MODE=development
 MONGO_URL=
-# random text to encrypt
 JWT_SECRET=
-# for payment gateway
 BRAINTREE_MERCHANT_ID=
 BRAINTREE_PUBLIC_KEY=
 BRAINTREE_PRIVATE_KEY=
